@@ -67,4 +67,10 @@ dz
 
 # Nouns
 
+## Plural
+
+* Masculine plural nouns end with y
+* Feminine plural nouns end with i
+* Neuter plural nouns end with a
+
 # Verbs
